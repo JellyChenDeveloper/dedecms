@@ -1,3 +1,13 @@
-.idea
-data/cache
-data/tplcache
+#phpstrom配置文件
+.idea/
+#缓存目录
+data/cache/
+data/tplcache/
+data/enums/
+data/sessions_d41d8cd98f/
+#生成的页面目录
+a/
+#上传目录
+uploads/
+#安装目录
+install/

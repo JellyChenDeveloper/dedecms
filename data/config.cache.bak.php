@@ -1,11 +1,11 @@
 <?php
 $cfg_basehost = 'http://local.dede.com';
 $cfg_cmspath = '';
-$cfg_cookie_encode = '92AHi3WglyQUYQrqWNlaXvIa7nkv2dAM';
+$cfg_cookie_encode = 'wqAeM3Ps5vB1aDdGWngpq6Kd6oKtfqs';
 $cfg_indexurl = '/';
 $cfg_backup_dir = 'backupdata';
 $cfg_indexname = '主页';
-$cfg_webname = '测试网站';
+$cfg_webname = '我的网站';
 $cfg_adminemail = 'admin@dedecms.com';
 $cfg_html_editor = 'ckeditor';
 $cfg_arcdir = '/a';
